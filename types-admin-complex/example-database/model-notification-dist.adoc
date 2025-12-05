@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\types-admin-complex\example-database\model-notification-dist.adoc
+// Generated at: 2025-10-25T10:51:31.649Z
